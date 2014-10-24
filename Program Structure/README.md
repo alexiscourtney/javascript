@@ -16,16 +16,15 @@ Fizz Buzz
 
 Looping A Triangle
 ----
->"Write a loop that makes seven calls to console.log to output the following triangle:
-
->#
+>"Write a loop that makes seven calls to console.log to output the following triangle:"
+``` 
+#
 >##
 >###
 >####
 >#####
 >######
->#######"
-
-
+>#######
+``` 
 
 [Eloquent JavaScript]:http://eloquentjavascript.net/02_program_structure.html
