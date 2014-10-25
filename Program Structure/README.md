@@ -34,14 +34,14 @@ Chess Board
 
 >Passing this string to console.log should show something like this:
 ```
-># # # #
-> # # # #
-># # # #
-> # # # #
-># # # #
-> # # # #
-># # # #
-> # # # #
+# # # #
+ # # # #
+# # # #
+ # # # #
+# # # #
+ # # # #
+# # # #
+  # # # #
  ```
  >"
 
