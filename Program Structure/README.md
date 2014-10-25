@@ -5,7 +5,7 @@ These are the exercises set forth in [Eloquent JavaScript] Chapter 2: Program St
 
   - Fizz Buzz
   - Looping A Triangle
-
+  - Chess Board
 
 
 Fizz Buzz
